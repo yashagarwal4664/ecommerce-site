@@ -1,0 +1,13 @@
+.flexallcentre{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    color: aliceblue;
+    background: var(--main-bg-color);
+    font-family: 'Unbounded', cursive;
+    border-radius: 7px ;
+    cursor: pointer; 
+}
